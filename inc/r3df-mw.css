@@ -1,0 +1,34 @@
+.widget_r3dfmeetup{
+	padding:0;
+}
+.widget_r3dfmeetup h3{
+	margin-bottom:5px;
+}
+.widget_r3dfmeetup .r3dfmeetupcontainer{
+	min-height:36px;
+}
+.widget_r3dfmeetup a.r3dfmeetup{
+	position:relative;
+	display:inline-block;
+}
+.widget_r3dfmeetup img.r3dfmeetup{
+	padding:0;
+	border:0;
+	position:absolute;
+	top: 0;
+	left:0;
+	border-radius: 0;
+    box-shadow: none;
+}
+.widget_r3dfmeetup span.r3dfmeetup{
+    position: relative;
+	top:2px;
+}
+.widget_r3dfmeetup span.r3dfmeetup{
+	display:block;
+	padding-left:60px;
+	line-height:1.2;
+}
+.widget_r3dfmeetup span.r3dfmeetup.middle{
+	line-height:2.4;
+}

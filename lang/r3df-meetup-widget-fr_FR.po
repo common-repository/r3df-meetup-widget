@@ -1,0 +1,66 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: R3DF - Meetup Widget\n"
+"POT-Creation-Date: 2015-09-29 21:18-0400\n"
+"PO-Revision-Date: 2015-09-29 21:22-0400\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.5\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: r3df-meetup-widget.php\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: r3df-meetup-widget.php:56
+msgid "R3DF: Meetup Widget"
+msgstr "R3DF : Widget de Meetup"
+
+#: r3df-meetup-widget.php:58
+msgid "Displays Meetup group link in a widget."
+msgstr "Ajouter le lien de Tumblr dans un widget."
+
+#: r3df-meetup-widget.php:149
+msgid "Title:"
+msgstr "Titre :"
+
+#: r3df-meetup-widget.php:154
+msgid "Text to display:"
+msgstr "Texte à afficher :"
+
+#: r3df-meetup-widget.php:159
+msgid "URL:"
+msgstr "URL :"
+
+#: r3df-meetup-widget.php:164
+msgid "Open Meetup page in:"
+msgstr "Ouvrir la page Meetup dans :"
+
+#: r3df-meetup-widget.php:173
+msgid "Postion text in middle vertically"
+msgstr "Aligner au milieu verticalement"
+
+#. Plugin Name of the plugin/theme
+msgid "R3DF - Meetup Widget"
+msgstr "R3DF - Widget de Meetup"
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "http://r3df.com/"
+msgstr "http://r3df.com/"
+
+#. Description of the plugin/theme
+msgid "Displays meetup group link in a widget"
+msgstr "Ajouter le lien de Tumblr dans un widget."
+
+#. Author of the plugin/theme
+msgid "R3DF"
+msgstr "R3DF"
